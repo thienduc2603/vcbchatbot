@@ -1,0 +1,65 @@
+[
+  {
+    "question": "Loại giao dịch nào sẽ áp dụng Phí xử lý giao dịch nội tệ tại nước ngoài?",
+    "answer": "Đối với thẻ TDQT: Phí xử lý giao dịch nội tệ tại nước ngoài áp dụng cho các giao dịch bằng VND tại đơn vị chấp nhận thẻ và ATM có mã nước khác Việt Nam, dựa trên thông tin mã nước của đơn vị bán hàng trong yêu cầu thanh toán của đơn vị này gửi cho Vietcombank."
+  },
+  {
+    "question": "Số tiền thanh toán tối thiểu của mỗi kỳ sao kê tôi phải thanh toán được tính như thế nào?",
+    "answer": "Số tiền thanh toán tối thiểu = [(Số dư nợ cuối kỳ sao kê ngoài trả góp × Tỷ lệ thanh toán tối thiểu) + Số tiền thanh toán tối thiểu của các kỳ sao kê trước chưa trả + Số tiền sử dụng vượt hạn mức tín dụng trong kỳ sao kê (nếu có) + Các khoản trả góp định kỳ (nếu có)]\n\n(*) Tỷ lệ thanh toán tối thiểu được Vietcombank quy định theo từng hạng thẻ tín dụng, có thể thay đổi tùy từng thời kỳ. Hiện tại tỷ lệ như sau:",
+    "table": {
+      "columns": ["Hạng thẻ", "Tỷ lệ thanh toán tối thiểu"],
+      "rows": [
+        ["Xanh/Chuẩn", "10%"],
+        ["Vàng", "5%"],
+        ["Signature/Platinum/World/Infinite", "2%"]
+      ]
+    },
+    "note": "Đối với thẻ tín dụng công ty Vietcombank American Express Corporate, không áp dụng tỷ lệ thanh toán tối thiểu và số tiền thanh toán tối thiểu."
+  },
+  {
+    "question": "Tôi không nhận được OTP để liên kết thẻ, tôi phải làm sao?",
+    "answer": "Trong trường hợp này, bạn cần kiểm tra các điểm sau:",
+    "bullet_points": [
+        "Điện thoại cài đặt Ứng dụng MOCA hoạt động bình thường, có kết nối Internet.",
+        "Bạn đã đăng ký SMS Banking với VCB (Lưu ý, OTP sẽ được gửi đến số điện thoại đã được bạn đăng ký nhận OTP từ VCB).",
+        "Điện thoại gắn SIM đăng ký nhận OTP hoạt động bình thường.",
+        "Nếu không được, bạn có thể gọi số Hotline của MOCA (1900 6923) hoặc Hotline của VCB (1900 54 54 13) để được hỗ trợ thêm."
+    ]
+  },
+  {
+    "question": "Tôi đã thực hiện thanh toán trên Ứng dụng MOCA thành công (và đã có tin nhắn thông báo trừ tiền từ VCB), tuy nhiên người bán hàng nói rằng không nhận được thông tin thanh toán của tôi, tôi phải làm sao?",
+    "answer": "Trong trường hợp này, bạn hãy đề nghị người bán hàng kiểm tra lại và gọi tới hotline MOCA số 1900 6923 để được hỗ trợ."
+  },
+  {
+    "question": "Khi điện thoại di động bị mất, thất lạc, hư hỏng hoặc phát hiện, nghi ngờ có hiện tượng truy cập trái phép vào Ứng dụng MOCA, hoặc nghi ngờ thông tin tài khoản của Người dùng không còn bảo mật, tôi nên làm gì?",
+    "answer": "Bạn cần thông báo ngay lập tức cho VCB qua số hotline (1900 54 54 13) hoặc số hotline MOCA (1900 6923) để khóa thẻ/khóa người dùng (user) trên Ứng dụng MOCA và/hoặc khóa thẻ trên toàn bộ các kênh giao dịch (nếu cần)."
+  },
+  {
+    "question": "Trong trường hợp quý khách hàng là chủ thẻ Ngân hàng khác phát hành gặp sự cố tại máy ATM của VCB, giao dịch không thành công nhưng tài khoản vẫn bị trừ tiền, đề nghị Quý khách liên hệ với NHPH thẻ của mình để làm tra soát.",
+    "answer": "Trong trường hợp quý khách hàng là chủ thẻ Ngân hàng khác phát hành gặp sự cố tại máy ATM của VCB, giao dịch không thành công nhưng tài khoản vẫn bị trừ tiền, đề nghị Quý khách liên hệ với NHPH thẻ của mình để làm tra soát."
+  },
+  {
+    "question": "Thẻ tín dụng công ty của Vietcombank có thẻ phụ không?",
+    "answer": "Do đặc tính thẻ dành riêng cho công vụ, vì vậy chúng tôi không cung cấp thẻ phụ cho thẻ tín dụng doanh nghiệp."
+  },
+  {
+    "question": "Tôi muốn đăng ký thẻ tín dụng công ty cho nhân viên của tôi. Vietcombank có cung cấp thẻ tín dụng công ty không?",
+    "answer": "Hiện tại, Vietcombank đã phát hành 2 sản phẩm thẻ tín dụng công ty bao gồm thẻ Vietcombank Visa Corporate và thẻ Vietcombank American Express® Corporate, trong đó, thẻ Vietcombank American Express® Corporate là sản phẩm thẻ tín dụng công ty lần đầu tiên có mặt ở Việt Nam được cung cấp dành riêng cho các tổ chức, doanh nghiệp như một giải pháp thanh toán và quản lý chi tiêu công vụ toàn diện, hiệu quả, ưu việt, đồng thời đem lại nhiều tiện ích và ưu đãi hấp dẫn cho cán bộ, nhân viên của tổ chức, doanh nghiệp trong quá trình sử dụng thẻ."
+  },
+  {
+    "question": "Chủ thẻ phụ có cần phải chứng minh thu nhập hay không?",
+    "answer": "Ngân hàng không yêu cầu chứng minh thu nhập của Chủ thẻ phụ vì Thẻ phụ được phát hành dưới tài khoản của Thẻ chính."
+  },
+  {
+    "question": "Thẻ tín dụng Vietcombank có hiệu lực trong bao lâu?",
+    "answer": "Thông thường, thẻ tín dụng Vietcombank có hiệu lực là 05 năm. Tuy nhiên, trường hợp chủ thẻ là người nước ngoài, hiệu lực thẻ có thể ngắn hơn tùy thuộc vào thời hạn làm việc còn lại tại Việt Nam trên giấy phép lao động của khách hàng."
+  },
+  {
+    "question": "Khi thẻ Vietcombank bị thất lạc hoặc bị đánh cắp, tôi nên làm gì?",
+    "answer": "Nếu thẻ tín dụng Vietcombank của bạn bị thất lạc hoặc bị đánh cắp, bạn cần ngay lập tức khóa thẻ trên VCB-iB@nking, VCB-Mobile B@nking, gửi tin nhắn SMS đến tổng đài 6167 hoặc gọi điện đến Trung tâm Hỗ Trợ Khách Hàng 24/7 của Vietcombank 1900 54 54 13.\n Xin lưu ý bạn sẽ chịu trách nhiệm với tất cả các khoản giao dịch phát sinh từ Thẻ tín dụng của bạn cho đến khi Ngân hàng nhận được thông báo mất thẻ và hoàn thành việc khóa thẻ"
+  },
+  {
+    "question": "Tôi có thể đăng ký dịch vụ trích nợ tự động bằng cách nào?",
+    "answer": "Dịch vụ trích nợ tự động được cung cấp cho khách hàng đã có tài khoản thanh toán tại Vietcombank, quý khách có thể chọn thanh toán tối thiểu hoặc toàn bộ số dư nợ trên bảng sao kê hàng tháng.\nQuý khách chỉ cần đảm bảo có đủ hoặc nhiều hơn số tiền cần thanh toán vào ngày đến hạn."
+  }
+]

@@ -1,0 +1,30 @@
+# Ignore Python cache and bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ignore virtual environments
+venv/
+ENV/
+env/
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore logs and system files
+*.log
+*.sqlite3
+
+# Ignore compiled files
+*.so
+*.dll
+*.exe
+
+# Ignore sensitive files (you can customize)
+.env
+*.secret
+*.key
